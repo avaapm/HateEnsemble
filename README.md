@@ -1,7 +1,7 @@
-# Named entity recognition in Turkish: A comparative study with detailed error analysis
+# Ensemble Learning for Hate Speech Detection
 
 ## Overview
-This repository will be contain the official implementation of "Hatred of Crowds: Ensemble Learning for Hate Speech Detection" paper.
+This repository will be contain the official implementation of "Ensemble Learning for Hate Speech Detection" paper.
 
 ## Disclaimer
 
