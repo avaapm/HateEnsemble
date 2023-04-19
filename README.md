@@ -1,7 +1,7 @@
-# Ensemble Learning for Hate Speech Detection
+# Constructing Ensembles for Hate Speech Detection
 
 ## Overview
-This repository will be contain the official implementation of "Ensemble Learning for Hate Speech Detection" paper.
+This repository will be contain the official implementation of the manuscript "Constructing Ensembles for Hate Speech Detection".
 
 ## Disclaimer
 
