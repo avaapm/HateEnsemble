@@ -7,9 +7,9 @@ This repository will be contain the official implementation of the manuscript "C
 
 - src/Topics: Contains the topic keywords.
 - src/gmm_splitter.py: source code of GMM splitter method
-- src/influential_splitter.py: source code of GMM splitter method
-- src/stratified_splitter.py: source code of GMM splitter method
-- src/topic_splitter.py: source code of GMM splitter method
+- src/influential_splitter.py: source code of influential splitter method
+- src/stratified_splitter.py: source code of fold splitter method
+- src/topic_splitter.py: source code of topic splitter method
 
 ## Disclaimer
 
